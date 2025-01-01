@@ -41,8 +41,7 @@ import cafe.adriel.voyager.transitions.SlideTransition
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
-import firstcomposemultiplatform.composeapp.generated.resources.Res
-import firstcomposemultiplatform.composeapp.generated.resources.compose_multiplatform
+
 import org.example.wakil.features.todo.presentation.view.HomeScreen
 import org.example.wakil.features.todo.presentation.view_model.TodoViewModel
 import org.koin.core.context.startKoin
